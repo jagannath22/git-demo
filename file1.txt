@@ -1,5 +1,12 @@
 hello everyone, thank you!
 thank you thank you
+<<<<<<< HEAD
 please follow me
 i am new here.
 do my work
+=======
+
+this side jagannath from odisha
+i am a software engineer
+please contact me
+>>>>>>> DevB
